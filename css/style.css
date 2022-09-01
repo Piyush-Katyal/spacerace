@@ -1,0 +1,21 @@
+body {
+    background-color: #eaeaea;
+}
+
+hr {
+    background-color: transparent;
+    border-style: dotted none none none;
+    border-color: rgb(192, 192, 192);
+    border-width: 8px;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color: #494949;
+    text-shadow: 2px 2px 5px rgb(110, 110, 110);
+}
+
+h2 {
+    color: #808080;
+}
